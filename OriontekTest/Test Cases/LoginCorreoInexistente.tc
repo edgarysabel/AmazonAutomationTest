@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginCorreoInexistente</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f8f0edb0-ee90-47f3-9e15-efd1db152c55</testCaseGuid>
+</TestCaseEntity>
